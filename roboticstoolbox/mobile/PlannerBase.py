@@ -10,6 +10,7 @@ from abc import ABC
 # from scipy.ndimage import interpolation
 from spatialmath.base.transforms2d import *
 from spatialmath.base.vectors import *
+from spatialmath import base
 
 # from spatialmath import SE2, SE3
 from matplotlib import cm
